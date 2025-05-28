@@ -1,0 +1,43 @@
+{
+  "name": "medical-dialogue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "knip": "knip"
+  },
+  "dependencies": {
+    "@deepgram/sdk": "^3.11.1",
+    "lucide-react": "^0.344.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.22.3",
+    "socket.io-client": "^4.8.1",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.20.0",
+    "@types/node": "^22.13.4",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@types/socket.io-client": "^1.4.36",
+    "@types/string-similarity": "^4.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.18",
+    "dotenv": "^16.4.7",
+    "eslint": "^9.20.1",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "knip": "^5.44.4",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.3.5",
+    "typescript": "^5.7.3",
+    "typescript-eslint": "^8.24.1",
+    "vite": "^5.4.14"
+  }
+}

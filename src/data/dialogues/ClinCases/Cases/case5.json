@@ -1,0 +1,244 @@
+{
+  "id": "case5",
+  "title": "Fever of Unknown Origin",
+  "difficulty": "B2",
+  "description": "Medical consultation dialogue focusing on taking history from a patient with fever of unknown origin, including symptoms assessment and diagnostic questioning",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about duration: І як довго... як довго у вас така температура?",
+      "expectedResponse": "And how long... how long have you had this temperature?",
+      "grammarNote": "Present Perfect - Duration question with 'how long'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-duration.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/how-long-have-you-had-this-temperature.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient responds uncertainly: О,я не знаю точно.",
+      "expectedResponse": "Oh, I do not know exactly.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-response-uncertainty.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/i-do-not-know-exactly.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient estimates: Приблизно два місяці з перервами (то є, то némає)",
+      "expectedResponse": "About two months on and off.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-estimates.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/about-2-months-on-and-off.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You clarify: І чи температура у вас весь час?",
+      "expectedResponse": "And do you have a temperature all the time?",
+      "grammarNote": "Present Simple - Yes/No question with frequency",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-clarify.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/do-you-have-a-temperature-all-the-time.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about timing: Чи вона з'являється в якийсь певний час?",
+      "expectedResponse": "Or does it come on at any particular time?",
+      "grammarNote": "Present Simple - Question about timing patterns",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-timing.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/does-it-come-on-at-any-particular-time.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains daytime feeling: Ну, іноді я почуваюся нормально протягом дня.",
+      "expectedResponse": "Well, sometimes I feel all right during the day.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-explains-daytime-feeling.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/well-sometimes-i-feel-all-right-during-the-day.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes night symptoms: Але я прокидаюся вночі і весь мокрий від поту.",
+      "expectedResponse": "But I wake up at night and I am drenched in sweat.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-describes-night-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/but-i-wake-up-at-night-and-i-am-drenched-in-sweat.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient adds more symptoms: І іноді все моє тіло трясеться і...",
+      "expectedResponse": "And sometimes my whole body shakes and...",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-ads-more-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/sometimes-my-whole-body-shakes-and.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about general wellbeing: І як ви почувалися загалом?",
+      "expectedResponse": "And how have you been feeling in general?",
+      "grammarNote": "Present Perfect Continuous - General state inquiry",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-general-well-being.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/and-how-have-you-been-feeling-in-general.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient hesitates to respond: Ну, я не знаю.",
+      "expectedResponse": "Well, I do not know.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-hesitates-to-respond.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/well-i-don-t-know.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient admits: Я почувався трохи втомленим.",
+      "expectedResponse": "I have been feeling a bit tired.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-admits.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/i-have-been-feeling-a-bit-tired.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes weakness: Трохи втомленим і слабким.",
+      "expectedResponse": "A bit tired and weak.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-describes-weakness.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/bit-tired-and-weak.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains lack of energy: І, здається, у мене просто немає енергії.",
+      "expectedResponse": "And I just do not seem to have any energy.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-explains-lack-of-energy.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/i-just-do-not-seem-to-have-any-energy.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about muscle pain: І чи помітили ви якийсь біль у м'язах?",
+      "expectedResponse": "And have you noticed any, um, any pain in your muscles?",
+      "grammarNote": "Present Perfect - Experience question with 'have you noticed'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-muscle-pain.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/have-you-noticed-any-any-pain-in-your-muscles.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient confirms with hesitation: Так, ну, насправді, трохи є, так.",
+      "expectedResponse": "Yes, well, actually, I have a bit, yes.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-confirms-with-hesitation.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/yes-well-actually-i-have-a-bit-yes.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about weight: А що з вашою вагою?",
+      "expectedResponse": "And what about your weight?",
+      "grammarNote": "Question phrase - 'What about' for topic transition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-weight.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/what-about-your.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check for weight loss: Ви схудли?",
+      "expectedResponse": "Have you lost any weight?",
+      "grammarNote": "Present Perfect - Yes/No question about recent change",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-check-for-weight-loss.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/have-you-lost-any-weight.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient confirms significant loss: Так, так, я схуд, близько стоуна. («stone» означає певну одиницю ваги, еквівалентну 14 фунтам або 6,35 кілограмам)",
+      "expectedResponse": "Yes, yes, I have, about a stone.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-confirm-significant-loss.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/yes-i-have-about-a-stone.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You acknowledge and continue: Розумію, і, ем, а що з вашим апетитом?",
+      "expectedResponse": "I see, and, um, what about your appetite?",
+      "grammarNote": "Acknowledgment phrase + topic transition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-knowledge-and-continue.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/i-see-and-what-about-your-appetite.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about eating habits: Яким був ваш апетит?",
+      "expectedResponse": "What has your appetite been like?",
+      "grammarNote": "Present Perfect - 'What has... been like' for recent state",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-eating-habits.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/what-has-your-apetite-been-like.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes poor appetite: Ну, останнім часом я дійсно не їв.",
+      "expectedResponse": "Well, I have not really been eating lately.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-describes-poor-appet.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/well-i-have-not-really-been-eating-lately.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains lack of interest: Я просто не відчував бажання їсти.",
+      "expectedResponse": "I just have not felt like eating.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-explains-lack-of-interest.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/just-have-not-felt-like-eating.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about cough: І чи був у вас кашель взагалі?",
+      "expectedResponse": "And have you had a cough at all?",
+      "grammarNote": "Present Perfect - Yes/No question with 'at all' for emphasis",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-cough.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/and-have-you-had-a-cough-at-all.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient confirms with emphasis: О, так, був.",
+      "expectedResponse": "Oh, yes, I have.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-confirms-with-emphasis.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/yes-i-have.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes frequency: Майже весь час.",
+      "expectedResponse": "Nearly all the time.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-describes-frequency.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/nearly-all-the-time.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient mentions sputum production: Іноді я відкашлюю багато мокротиння.",
+      "expectedResponse": "I sometimes bring up a lot of phlegm.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-mentioned-sputum-production.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/i-sometimes-bring-up-a-lot-of-phlegm.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about blood: І чи є... ви помітили кров у ньому?",
+      "expectedResponse": "And is there... have you noticed any blood in it?",
+      "grammarNote": "Present Perfect - Question about observed symptoms",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-ask-about-blood.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/and-is-there-have-you-noticed-any-blood-in.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient gives qualified answer: Ні, не завжди, але так, іноді.",
+      "expectedResponse": "No, not always, but yes, sometimes.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-gives-qualified-answer.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/not-always-but-yes-sometimes.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You inquire about chest pain: Чи були у вас болі в грудях?",
+      "expectedResponse": "Have you ever had chest pain?",
+      "grammarNote": "Present Perfect - 'Have you ever' for lifetime experience",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/you-inquire-about-chest-pain.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/have-you-ever-had-chest-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient specifies when pain occurs: Тільки якщо я роблю глибокий вдих.",
+      "expectedResponse": "Only if I take a deep breath.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c5/patient-specifies-when-pain-occur.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c5/only-if-i-take-a-deep-breath.mp3"
+    },
+    {
+      "type": "instruction",
+      "teacherApp": "Well done, that is all for today's lesson, say \"finish\" to end the lesson.",
+      "expectedResponse": "finish",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/well-done-you-have-successfully-completed-this-medical-english-scenario-say-finish-to-end-the-lesson.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/finish.mp3"
+    }
+  ]
+}

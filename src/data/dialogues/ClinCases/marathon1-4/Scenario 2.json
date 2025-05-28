@@ -1,0 +1,253 @@
+{
+   "id": "Scenario 2",
+  "title": "Scenario 2",
+  "difficulty": "intermediate",
+  "description": "Learn essential terminology used during physical examinations in English",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: гематологічна лабораторія",
+      "expectedResponse": "haematology laboratory",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/hematology-laborator.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Це результати з гематологічної лабораторії",
+      "expectedResponse": "These are results from the haematology laboratory",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/these-a-results-from-the-hematology-laborator.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: мазок крові",
+      "expectedResponse": "blood film",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/blood-film.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Лаборант досліджує мазок крові",
+      "expectedResponse": "The laboratory technician is examining the blood film",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-laboratory-technician-is-examining-the-blood-film.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say: Лаборант досліджує мазок крові під мікроскопом",
+      "expectedResponse": "The laboratory technician is examining the blood film under the microscope",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/laboratory-technician-is-examining-the-blood-film-under-the-microscope.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: лейкоцити (білі кров'яні клітини)",
+      "expectedResponse": "white blood cells",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/white-blood-cells.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Загальна кількість білих кров'яних клітин",
+      "expectedResponse": "The total white blood cell count",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-total-white-blood-cell-count.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: Загальна кількість білих кров'яних клітин становить 7.2",
+      "expectedResponse": "The total white blood cell count is seven point two",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-total-white-blood-cell-count-is-7-2.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say: еритроциті (червоні кров'яні клітини)",
+      "expectedResponse": "red blood cells",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/red-blood-cell.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Кількість червоних кров'яних клітин",
+      "expectedResponse": "The red blood cell count",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/red-blood-cell-count.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say: Кількість червоних кров'яних клітин становить 3.32",
+      "expectedResponse": "The red blood cell count is three point three two",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-red-blood-cell-count-is-3-32.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: тромбоцити",
+      "expectedResponse": "platelets",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/platelets.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Кількість тромбоцитів",
+      "expectedResponse": "The platelet count",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/a-platelet-count.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say: Кількість тромбоцитів становить 264",
+      "expectedResponse": "The platelet count is two hundred and sixty-four",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-platelet-count-is-264.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: У мазку крові присутні клітини Бурра",
+      "expectedResponse": "Burr cells are present in the blood film",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/burr-cells-are-present-in-the-blood-film.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: швидкість осідання еритроцитів (ШОЕ)",
+      "expectedResponse": "erythrocyte sedimentation rate",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/erythrocite-sedimentation-rate.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Швидкість осідання еритроцитів становить 43 міліметри",
+      "expectedResponse": "The erythrocyte sedimentation rate is forty-three millimeters",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/erythrocyte-sedimentation-rate-is-43-millimeters.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: середній об'єм еритроцита (СОЕ)",
+      "expectedResponse": "mean corpuscular volume",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/mean-corpuscular-volume.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Середній об'єм еритроцита становить 81",
+      "expectedResponse": "The mean corpuscular volume is eighty-one",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/mean-corpuscular-volume-is-81.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How would you say in English: Зразок крові",
+      "expectedResponse": "The blood sample",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/blood-sample.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How would you say: Зразок крові було направлено до гематологічної лабораторії",
+      "expectedResponse": "The blood sample was sent to the haematology laboratory",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-blood-sample-was-sent-to-the-hematology-laboratory.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate to English: Мазок крові показує нормальну морфологію клітин",
+      "expectedResponse": "The blood film shows normal cell morphology",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-blood-film-shows-normal-cell-morphology.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Could you say in English: Загальна кількість білих кров'яних клітин знаходиться в межах норми",
+      "expectedResponse": "The total white blood cell count is within normal range",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/could-you-say-in-english.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-total-white-blood-cell-count-is-within-normal-range.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: Кількість червоних кров'яних клітин вказує на легку анемію",
+      "expectedResponse": "The red blood cell count indicates mild anemia",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/red-blood-cell-count-indicates-mild-anemia.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Please translate: Кількість тромбоцитів знаходиться в межах норми",
+      "expectedResponse": "The platelet count is within normal range",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/platelet-count-is-within-normal-range.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How would you translate: Швидкість осідання еритроцитів підвищена",
+      "expectedResponse": "The erythrocyte sedimentation rate is elevated",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/erythrocyte-sedimentation-rate-is-elevated.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Give me the English version: Середній об'єм еритроцита знаходиться в межах норми",
+      "expectedResponse": "The mean corpuscular volume is within normal range",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/give-me-the-english-version.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/mean-corpuscular-volume-is-within-normal-range.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Tell me in English how to say: Гематологічна лабораторія підготувала повний аналіз крові",
+      "expectedResponse": "The haematology laboratory has prepared a complete blood count",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/tell-me-how-to-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/hematology-laboratory-has-prepared-a-complete-blood-count.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "What's the English for: Мазок крові демонструє наявність клітин Бурра",
+      "expectedResponse": "The blood film shows the presence of Burr cells",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/What%20is.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-blood-film-shows-the-presence-of-burr-cells.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How would you express this in English: Загальна кількість білих кров'яних клітин вказує на відсутність інфекції",
+      "expectedResponse": "The total white blood cell count indicates no infection",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/How%20would%20you%20express%20this%20in%20English.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-total-white-blood-cell-count-indicates-no-infection.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Give the English translation for: Кількість тромбоцитів адекватна, морфологія нормальна",
+      "expectedResponse": "The platelet count is adequate with normal morphology",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/give-me-the-english.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/platelet-count-is-adequate-with-normal-morphology.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say this in medical English: У мазку крові виявлено клітини Бурра",
+      "expectedResponse": "The blood film shows Burr cells",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/the-blood-film-shows-burr-cell.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Please provide the English version: Підвищена швидкість осідання еритроцитів свідчить про запальний процес",
+      "expectedResponse": "The elevated erythrocyte sedimentation rate indicates an inflammatory process",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/Please%20provide%20the%20English%20version.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/elevated-erythrosite-sedimentation-rate-indicates-an-inflammatory-process.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate this laboratory finding: Нормальний середній об'єм еритроцита виключає анемію",
+      "expectedResponse": "The normal mean corpuscular volume excludes anemia",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/translate-this-laboratory-finding.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p1-3/normal-mean-corpuscular-volume-excludes-anemia.mp3"
+    }
+  ]
+}

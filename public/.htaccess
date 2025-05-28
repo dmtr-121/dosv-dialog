@@ -1,0 +1,27 @@
+# Force proper MIME types for JavaScript files
+<FilesMatch "\.(js|mjs)$">
+    ForceType application/javascript
+</FilesMatch>
+
+# Force proper MIME types for JSON files  
+<FilesMatch "\.json$">
+    ForceType application/json
+</FilesMatch>
+
+# Force proper MIME types for WAV files
+<FilesMatch "\.wav$">
+    ForceType audio/wav
+</FilesMatch>
+
+# Fallback for single page application
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.html [L]
+
+# Security headers
+<IfModule mod_headers.c>
+    Header always set X-Content-Type-Options nosniff
+    Header always set X-Frame-Options DENY
+    Header always set X-XSS-Protection "1; mode=block"
+</IfModule> 

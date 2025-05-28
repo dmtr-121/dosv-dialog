@@ -1,0 +1,141 @@
+{
+   "id": "Scenario 2.4",
+  "title": "Laboratory",
+  "difficulty": "intermediate",
+  "description": "Learn essential terminology used during physical examinations in English",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician introduces: Це гематологічна лабораторія в Роялі.",
+      "expectedResponse": "This is the haematology lab at the Royal.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-introduces.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/this-is-the-hematology-lab-at-the-royal.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician states: У мене є результат для вас.",
+      "expectedResponse": "I have a result for you.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-states.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/i-have-a-result-for-you.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You respond politely: Добре, я візьму форму.",
+      "expectedResponse": "Right, I'll just get a form.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/you-respond-politely.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/right-i-ll-just-get-a-form.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician identifies: Це для пана Холла.",
+      "expectedResponse": "It's for Mr Hall.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-identifies.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/its-for-mr-hall.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician reports: Лейкоцити - 7,2.",
+      "expectedResponse": "White blood cells, seven point two.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-reports.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/white-blood-cells-7-2.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician continues: Еритроцити – 3,32.",
+      "expectedResponse": "Red Blood Cells, three point three two.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-continues.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/red-blood-cells-3-32.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician reads: Гемоглобін - 12,9.",
+      "expectedResponse": "Haemoglobin, twelve point nine.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-reads.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/hemoglobin-12-9.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician states: Гематокрит - 0,39.",
+      "expectedResponse": "Haematocrit, point three nine.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-states.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/hematocrit-39.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician reports: Середній корпускулярний об'єм - 81.",
+      "expectedResponse": "Mean Corpuscular Volume, eighty-one.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-reports.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/incorpuscular-volume-81.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician clarifies: Тромбоцити - 264.",
+      "expectedResponse": "Platelets, two hundred and sixty-four.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-clarifies.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/platelets-264.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician states: Швидкість осідання еритроцитів, 43 міліметри.",
+      "expectedResponse": "Erythrocyte Sedimentation Rate, forty-three millimetres.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-states.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/erytrosites-sedimentation-rate-43-millimeters.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician begins: Мазок крові показав наступне",
+      "expectedResponse": "Blood film showed",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-begins.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/blood-film-show.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician lists: Нейтрофіли - 60%.",
+      "expectedResponse": "Neutrophils, sixty percent.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-lists.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/nuetrofiles-60-.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician continues: Лімфоцити - 30%.",
+      "expectedResponse": "Lymphocytes, thirty percent.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-continues%20(1).mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lymphosites-30-.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician reports: Моноцити - 5%; еозинофіли - 4%.",
+      "expectedResponse": "Monocytes, five percent; eosinophils, four percent.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-reports.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/monosites-5-eosinophils-4-.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician adds: Базофіли - 1%.",
+      "expectedResponse": "Basophils, one percent.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-ads.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/basophils-1-.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Lab technician concludes: Присутні клітини Бурра - плюс плюс.",
+      "expectedResponse": "Burr cells present - plus plus.",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/lab-technician-concludes.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c2/p4/burr-cells-present-plus-plus.mp3"
+    },
+    {
+      "type": "instruction",
+      "teacherApp": "Well done, that's all for today's lesson, say \"finish\" to end the lesson.",
+      "expectedResponse": "finish",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/well-done-you-have-successfully-completed-this-medical-english-scenario-say-finish-to-end-the-lesson.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/finish.mp3"
+    }
+  ]
+}

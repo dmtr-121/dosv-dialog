@@ -1,0 +1,31 @@
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+
+/assets/*.js
+  Content-Type: application/javascript
+
+/assets/*.mjs
+  Content-Type: application/javascript
+
+/assets/*.ts
+  Content-Type: application/javascript
+
+/assets/*.tsx
+  Content-Type: application/javascript
+
+/assets/*.json
+  Content-Type: application/json
+
+/assets/*.wav
+  Content-Type: audio/wav
+
+/*.js
+  Content-Type: application/javascript
+
+/*.json
+  Content-Type: application/json
+
+/*.wav
+  Content-Type: audio/wav 

@@ -1,0 +1,6 @@
+module.exports = {
+  exclude: [
+    "src/data/dialogues/**",
+    "src/data/resources/**"
+  ]
+};

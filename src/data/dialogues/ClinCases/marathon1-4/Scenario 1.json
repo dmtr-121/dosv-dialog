@@ -1,0 +1,235 @@
+{
+  "id": "Scenario 1",
+  "title": "Scenario 1",
+  "difficulty": "B1",
+  "description": "A dialogue practicing vocabulary and phrases related to skin conditions, symptoms, and their characteristics in a medical context",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: лікар",
+      "expectedResponse": "doctor",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/doctor.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: лікар огляне вас",
+      "expectedResponse": "the doctor will examine you",
+      "grammarNote": "Future Simple Tense",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/dr-will-examine-you.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: головний біль",
+      "expectedResponse": "headache",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/headach.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: у мене головний біль",
+      "expectedResponse": "I have a headache",
+      "grammarNote": "Present Simple - Statement",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/i-have-a-headache.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: лікар перевірить ваші вуха",
+      "expectedResponse": "the doctor will check your ears",
+      "grammarNote": "Future Simple Tense",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/doctor-will-check-your-ears.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: біль",
+      "expectedResponse": "pain",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: опишіть біль",
+      "expectedResponse": "describe the pain",
+      "grammarNote": "Imperative Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/describe-the-pain.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: симптом",
+      "expectedResponse": "symptom",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/symptom.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: які у вас симптоми?",
+      "expectedResponse": "what are your symptoms?",
+      "grammarNote": "Present Simple - Question",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/what-are-your-symptoms.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: пульсуючий головний біль",
+      "expectedResponse": "throbbing headache",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/throbbing-headach.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: у мене пульсуючий головний біль",
+      "expectedResponse": "I have a throbbing headache",
+      "grammarNote": "Present Simple with Adjective",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/i-have-a-throbbing-head.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: вушна сірка",
+      "expectedResponse": "ears wax",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/ear-wax.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: перевірити вуха на вушну сірку",
+      "expectedResponse": "check the ears for earwax",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/check-the-ears-for-ear-wax.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: лікар перевірить ваші вуха на наявність вушної сірки",
+      "expectedResponse": "the doctor will check your ears for earwax",
+      "grammarNote": "Future Simple with Prepositional Phrase",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/the-doctor-will-check-your-ears-for-ear-wax.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: тупий біль",
+      "expectedResponse": "dull pain",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/dull-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: це тупий і пульсуючий біль",
+      "expectedResponse": "it's a dull and throbbing pain",
+      "grammarNote": "Present Simple with Compound Adjectives",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/dull-and-throbbing-pain.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: інші симптоми",
+      "expectedResponse": "other symptoms",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/other-symptoms.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: чи є у вас інші симптоми?",
+      "expectedResponse": "do you have any other symptoms?",
+      "grammarNote": "Present Simple - Question with Quantifier",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/do-you-have-any-other-symptoms.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: Скільки часу головний біль вас турбує?",
+      "expectedResponse": "How long has the headache been bothering you?",
+      "grammarNote": "Present Perfect Continuous",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/how-long-has-the-headache-been-bothering-you.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: Головний біль зазвичай гірший вранці",
+      "expectedResponse": "The headache is usually worse in the morning",
+      "grammarNote": "Present Simple with Adverb of Frequency",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/headache-is-usually-worse-in-the-morning.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: Я перевірю ваші вуха зараз",
+      "expectedResponse": "I will check your ears now",
+      "grammarNote": "Future Simple with Time Expression",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/i-will-check-your-ears-now.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Say in English: Лікар перевірить ваші вуха на наявність вушної сірки",
+      "expectedResponse": "The doctor will check your ears for earwax",
+      "grammarNote": "Future Simple with Prepositional Phrase",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/doctor-will-check-your-ears-for-ear-wax.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Translate: Ви можете описати біль?",
+      "expectedResponse": "Can you describe the pain?",
+      "grammarNote": "Modal Verb - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/can-you-describe-the-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: Це тупий, пульсуючий біль через всю передню частину голови",
+      "expectedResponse": "It's a dull, throbbing pain across the front of the head",
+      "grammarNote": "Present Simple with Complex Description",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/it-s-a-dull-throbbing-pain-across-the-front-of-the-head.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: Щоб полегшити ваші симптоми",
+      "expectedResponse": "To make your symptoms better",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/to-make-your-symptoms-better.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: Чи є щось, що полегшує ваші симптоми?",
+      "expectedResponse": "Is there anything that makes your symptoms better?",
+      "grammarNote": "Present Simple - Question with Relative Clause",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/is-there-anything-that-makes-your-symptoms-better.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Say in English: Якщо я полежу",
+      "expectedResponse": "If I lie down",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/if-i-lie-down.mp3"
+    },
+    {
+      "type": "vocabulary",
+      "teacherApp": "Translate: симптоми зникають",
+      "expectedResponse": "the symptoms go away",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/translate.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/symptoms-go-away.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "How do you say: Якщо я полежу, симптоми зникають",
+      "expectedResponse": "If I lie down, the symptoms go away",
+      "grammarNote": "Zero Conditional",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/how-would-you-say.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p1-3/if-i-lie-down-the-symptoms-go-away.mp3"
+    }
+  ]
+}

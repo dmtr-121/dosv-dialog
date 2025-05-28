@@ -1,0 +1,150 @@
+{
+  "id": "Scenario 1.4",
+  "title": "Kevin Hall",
+  "difficulty": "B1",
+  "description": "A dialogue practicing vocabulary and phrases related to skin conditions, symptoms, and their characteristics in a medical context",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Greet your patient warmly: Доброго ранку, пане Холл.",
+      "expectedResponse": "Good morning, Mr Hall.",
+      "grammarNote": "Formal Greeting",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/greet-your-patient-warmly.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/good-morning-mr-hall.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about visit: Що привело вас сьогодні?",
+      "expectedResponse": "What's brought you along today?",
+      "grammarNote": "Present Perfect - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-ask-about-visit.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/whats-brought-you-along-today.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient hesitates explaining: Ну...розумієте, лікарю, у мене ці головні болі...",
+      "expectedResponse": "Well, you see, doctor, I've been having these headaches...",
+      "grammarNote": "Present Perfect Continuous",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-hesitates-explaining.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/wel-you-see-doctor-i-ve-been-having-these-headaches.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You probe further: І як довго вони вас турбують?",
+      "expectedResponse": "And how long have they been bothering you?",
+      "grammarNote": "Present Perfect Continuous - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-probe-further.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/how-long-have-they-been-bothering-you.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient recalls timeline: Ну, вони почалися приблизно три місяці тому.",
+      "expectedResponse": "Well, they started about three months ago.",
+      "grammarNote": "Past Simple with Time Expression",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-recalls-timel.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/well-they-started-about-three-months-ago.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You assess location: Яка частина голови болить?",
+      "expectedResponse": "Which part of your head is affected?",
+      "grammarNote": "Present Simple - Passive Voice",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-assess-location.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/which-part-of-your-head-is-affected.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient points showing: Це прямо навпроти, ось тут.",
+      "expectedResponse": "It's right across the front here.",
+      "grammarNote": "Present Simple with Spatial Expression",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-points-showing.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/it-s-right-across-the-front-here.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You request details: Можете описати біль?",
+      "expectedResponse": "Can you describe the pain?",
+      "grammarNote": "Modal Verb - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-request-detail.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/can-you-describe-the-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes sensation: Це такий тупий, пульсуючий біль.",
+      "expectedResponse": "It's a sort of dull, throbbing kind of pain.",
+      "grammarNote": "Present Simple with Complex Description",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-describes-sensation.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/to-sort-of-dull-throbbing-kind-of-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check timing: Біль з'являється в якийсь конкретний час?",
+      "expectedResponse": "Does the pain appear at a specific time?",
+      "grammarNote": "Present Simple - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-check-timing.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/does-the-pain-appear-at-a-specific-time.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient mentions pattern: Зазвичай гірше вранці, коли прокидаюся.",
+      "expectedResponse": "It's usually worse in the morning when I wake up.",
+      "grammarNote": "Present Simple with Time Clause",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-mentions-pattern.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/its-usually-worse-in-the-morning-when-i-wake-up.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You explore relief: І чи є щось, що полегшує біль?",
+      "expectedResponse": "And is there anything that make the pain better?",
+      "grammarNote": "Present Simple with Relative Clause",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-explore-relief.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/and-is-there-anything-that-make-the-pain-better.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient shares solution: Якщо я приляжу на деякий час, це проходить.",
+      "expectedResponse": "If I lie down for a while, it goes away.",
+      "grammarNote": "Zero Conditional",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patient-share-solution.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/if-i-lie-down-for-a-while-it-goes-away.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check other symptoms: Чи було щось ще, окрім головного болю?",
+      "expectedResponse": "Has there been anything else besides the headache?",
+      "grammarNote": "Present Perfect - Question Form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/check-other-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/as-there-been-anything-else-besides-the-headache.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient mentions observation: Дружина каже, що я, здається, глухну.",
+      "expectedResponse": "My wife says that I seem to be getting deaf.",
+      "grammarNote": "Present Simple with Reported Speech",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/patients-mentions-observation.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/my-wife-says-that-i-seem-to-be-gang-deaf.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You suggest examination: Думаю, я почну з того, що перевірю ваші вуха на наявність вушної сірки.",
+      "expectedResponse": "I think I'll start by checking your ears for wax.",
+      "grammarNote": "Future Simple with Gerund Phrase",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/you-suggest-examination.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c1/p4/i-think-ill-start-by-checking-your-ears-for-wax.mp3"
+    },
+    {
+      "type": "instruction",
+      "teacherApp": "Well done, that's all for today's lesson, say \"finish\" to end the lesson.",
+      "expectedResponse": "finish",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/well-done-you-have-successfully-completed-this-medical-english-scenario-say-finish-to-end-the-lesson.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/finish.mp3"
+    }
+  ]
+}

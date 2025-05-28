@@ -1,0 +1,334 @@
+{
+  "id": "case3",
+  "title": "Peter Green",
+  "difficulty": "B2",
+  "description": "A medical consultation where a doctor examines a patient with chest pain symptoms and diagnoses angina",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You welcome patient warmly: Заходьте, містере Грін.",
+      "expectedResponse": "Come in, Mr Green.",
+      "grammarNote": "Imperative form - Polite invitation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-welcome-patient-warmly.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/come-in-mr-green.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You offer seat: Проходьте і сідайте сюди.",
+      "expectedResponse": "Come and sit down here.",
+      "grammarNote": "Imperative form - Giving directions",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-offer-seat.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/come-and-sit-down-here.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You mention: Я отримав листа від вашого лікаря.",
+      "expectedResponse": "I have had a letter from your doctor.",
+      "grammarNote": "Present Perfect - Recent past action",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-mention.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-have-had-a-letter-from-your-doctor.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You describe patient's complaint: Вона каже, що у вас болі.",
+      "expectedResponse": "She tells me that you have been having pain.",
+      "grammarNote": "Present Continuous Perfect - Ongoing condition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-describe-patients-complaint.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/she-tells-me-that-you-ve-been-having-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You specify location: Біль у грудях.",
+      "expectedResponse": "Pain in your chest.",
+      "grammarNote": "Noun phrase - Medical description",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-specify-location.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/pain-in-your-chest.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient adds: Так, і в руці.",
+      "expectedResponse": "Yes, and in my arm.",
+      "grammarNote": "Simple affirmation with addition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-ads.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/yes-and-in-my-arm.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes: А також поколювання в пальцях.",
+      "expectedResponse": "And also tingling in my fingers.",
+      "grammarNote": "Present Simple - Symptom description",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-describes.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/also-tingling-in-my-fingers.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about an onset: Коли ви вперше помітили цей біль?",
+      "expectedResponse": "When did you first notice this pain?",
+      "grammarNote": "Past Simple - Question about onset",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-ask-about-an-onset.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/when-did-you-first-notice-this-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient estimates: Ну, думаю, близько шести місяців тому.",
+      "expectedResponse": "Well, I suppose about six months ago.",
+      "grammarNote": "Past time reference with approximation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-estimates.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/well-i-suppose-about-six-months-ago.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about first episode: Ви можете згадати, коли це вперше почалося?",
+      "expectedResponse": "Can you remember when it first came on?",
+      "grammarNote": "Modal verb - Ability question",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-ask-about-first-episode.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/can-you-remember-when-it-first-came-on.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient recalls incident: Так, я пам'ятаю сильний біль у грудях.",
+      "expectedResponse": "Yes, I remember I got a bad pain in my chest.",
+      "grammarNote": "Past Simple - Recalling specific event",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-recalls-incident.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/yes-i-remember-i-got-a-bad-pain-in-my-chest.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes activity: Коли я робив покупки.",
+      "expectedResponse": "When I was shopping.",
+      "grammarNote": "Past Continuous - Background activity",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patients-describes-activity.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/when-i-was-shopping.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains severity: Був такий сильний, що не міг дихати.",
+      "expectedResponse": "It was so bad that I could not breathe.",
+      "grammarNote": "Past Simple with result clause",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-explain-severity.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/it-was-so-bad-that-i-could-not-breathe.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about location: У якій частині грудей ви відчували біль?",
+      "expectedResponse": "In which part of your chest did you feel the pain?",
+      "grammarNote": "Past Simple - Specific location question",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-ask-about-location.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/which-part-of-your-chest-did-you-feel-the-pain.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes area: Прямо по всій грудній клітці.",
+      "expectedResponse": "Right across my chest.",
+      "grammarNote": "Prepositional phrase - Location description",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-describes-ares.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/right-across-my-chest.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about duration: Як довго це тривало?",
+      "expectedResponse": "How long did it last?",
+      "grammarNote": "Past Simple - Duration question",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-asked-about-duration.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/how-long-did-it-last.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient gives timeframe: Близько десяти хвилин.",
+      "expectedResponse": "About ten minutes.",
+      "grammarNote": "Time expression with approximation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-gives-time-frame.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/about-10-minutes.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about response: Що ви робили, коли це сталося?",
+      "expectedResponse": "What did you do when it happened?",
+      "grammarNote": "Past Simple - Action inquiry",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-ask-about-response.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/what-did-you-do-when-it-happened.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient describes action: Я просто зупинився і чекав поки пройде.",
+      "expectedResponse": "I just stop and wait for it to go away.",
+      "grammarNote": "Present Simple - Habitual response",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-describes.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-just-stop-and-wait-for-it-to-go-away.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about recurrence: Чи був у вас цей біль знову?",
+      "expectedResponse": "Have you had this pain again?",
+      "grammarNote": "Present Perfect - Experience question",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-ask-about-recurrence.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/have-you-had-this-pain-again.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient confirms: Так, я часто відчуваю його коли перенапружуюся.",
+      "expectedResponse": "Yes, I often get it when I overdo things.",
+      "grammarNote": "Present Simple - Frequency and condition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-confirms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-often-get-it-when-i-overdo-things.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You suggest examination: Думаю, на цьому етапі я хотів би вас обстежити.",
+      "expectedResponse": "I think at this stage I would like to examine you.",
+      "grammarNote": "Conditional - Polite suggestion",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-suggest-examination.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-think-at-this-stage-i-would-like-to-examine.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You give instruction: Роздягніться до пояса.",
+      "expectedResponse": "Strip to your waist.",
+      "grammarNote": "Imperative - Medical instruction",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-give-instruction.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/strip-to-your-waist.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check pulse: Спочатку перевірю ваш пульс.",
+      "expectedResponse": "First, I will check your pulse.",
+      "grammarNote": "Future Simple - Procedural statement",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-check-pulse.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/first-i-will-check-your-pulse.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You report findings: Це цілком нормально, сімдесят на хвилину.",
+      "expectedResponse": "It is quite normal, seventy per minute.",
+      "grammarNote": "Present Simple - Clinical assessment",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-report-findings.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/is-quite-normal-70-per-minute.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check blood pressure: Тепер ваш кров'яний тиск.",
+      "expectedResponse": "Now your blood pressure.",
+      "grammarNote": "Elliptical sentence - Procedural transition",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-check-blood-pressure.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/now-your-blood-pressure.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You reassure patient: Теж цілком нормальний, сто тридцять на вісімдесят.",
+      "expectedResponse": "That is quite normal too, one hundred thirty over eighty.",
+      "grammarNote": "Present Simple - Medical measurement",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-reassure-patient.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/is-quite-normal-too-130-over-80.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient expresses relief: Я радий це чути.",
+      "expectedResponse": "I am pleased to hear it.",
+      "grammarNote": "Present Simple - Emotional response",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-expresses-relief.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-am-please-to-hear-it.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You examine heart: Зараз я послухаю ваше серце.",
+      "expectedResponse": "Now I am going to listen to your heart.",
+      "grammarNote": "Future with 'going to' - Immediate intention",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-examine-heart.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/now-i-m-going-to-listen-to-your-heart.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You give breathing instruction: Дихайте нормально.",
+      "expectedResponse": "Breathe normally.",
+      "grammarNote": "Imperative - Medical instruction",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-give-breathing-instruction.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/breathe-normally.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You reassure about heart: Ваше серце звучить цілком нормально.",
+      "expectedResponse": "Your heart sounds quite normal.",
+      "grammarNote": "Present Simple - Clinical observation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-reassure-about-heart.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/your-heart-sounds-quite-normal.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient says: Це полегшення.",
+      "expectedResponse": "That is a relief.",
+      "grammarNote": "Present Simple - Expression of relief",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/patient-sais.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/that-is-a-relief.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check lungs: Робіть глибокі вдихи і видихи.",
+      "expectedResponse": "Take deep breaths in and out.",
+      "grammarNote": "Imperative - Breathing instruction",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-check-lungs.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/take-a-deep-breaths-in-and-out.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You continue lung examination: Поки я перевіряю ваші легені.",
+      "expectedResponse": "While I check your lungs.",
+      "grammarNote": "Present Continuous - Ongoing examination",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-continue-lung-examination.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/while-i-check-your-lungs.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You report lung findings: Вони повністю чисті.",
+      "expectedResponse": "They are completely clear.",
+      "grammarNote": "Present Simple - Clinical finding",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-report-lung-findings.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/they-are-completely-clear.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You provide diagnosis: Біль схожий на стенокардію.",
+      "expectedResponse": "The pain sounds very much like angina.",
+      "grammarNote": "Present Simple - Medical diagnosis",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/provide-diagnosis.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/pain-sounds-very-much-like-angina.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You explain condition: Це відбувається, коли до серця надходить недостатньо кисню.",
+      "expectedResponse": "This occurs when not enough oxygen is getting to the heart.",
+      "grammarNote": "Present Simple - Medical explanation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-explain-condition.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/this-occurs-when-not-enough-oxygen-is-getting-to-the-heart.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You suggest tests: Я хочу призначити кілька тестів.",
+      "expectedResponse": "I want to order some tests.",
+      "grammarNote": "Present Simple - Medical plan",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-suggest-test.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/i-want-to-order-some-tests.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You promise treatment plan: Після цього зможу порадити лікування.",
+      "expectedResponse": "After that, I will be able to recommend treatment.",
+      "grammarNote": "Future Simple with modal - Future capability",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c3/you-promise-treatment-plan.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c3/after-that-i-will-be-able-to-recommend-treatment.mp3"
+    },
+    {
+      "type": "instruction",
+      "teacherApp": "Well done, that is all for today's lesson, say \"finish\" to end the lesson.",
+      "expectedResponse": "finish",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/well-done-you-have-successfully-completed-this-medical-english-scenario-say-finish-to-end-the-lesson.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/finish.mp3"
+    }
+  ]
+}

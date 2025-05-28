@@ -1,0 +1,198 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+@keyframes scale-up {
+  from {
+    transform: scale(0.95);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+@keyframes soundwave {
+  0% {
+    transform: scaleY(0.5);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+  100% {
+    transform: scaleY(0.5);
+  }
+}
+
+/* Soundwave animation elements */
+.soundwave-bar {
+  width: 3px;
+  height: 20px;
+  margin: 0 1px;
+  background-color: currentColor;
+  border-radius: 1px;
+  animation: soundwave 0.5s ease-in-out infinite;
+}
+
+.soundwave-container {
+  display: flex;
+  align-items: center;
+  height: 24px;
+  gap: 2px;
+}
+
+/* Add animation delay for each bar */
+.soundwave-bar:nth-child(1) { animation-delay: 0.1s; }
+.soundwave-bar:nth-child(2) { animation-delay: 0.2s; }
+.soundwave-bar:nth-child(3) { animation-delay: 0.3s; }
+.soundwave-bar:nth-child(4) { animation-delay: 0.4s; }
+.soundwave-bar:nth-child(5) { animation-delay: 0.5s; }
+
+.animate-scale-up {
+  animation: scale-up 0.3s ease-out forwards;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.3s ease-out forwards;
+}
+
+.animate-pulse {
+  animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Recording pulse animation */
+@keyframes recording-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0.2);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(59, 130, 246, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(59, 130, 246, 0);
+  }
+}
+
+.recording-pulse {
+  animation: recording-pulse 2s infinite;
+}
+
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  --card-transform-time: 0.6s;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #f8fafc;
+  padding-top: 0 rem;
+}
+
+/* Custom scrollbar styles */
+.scrollbar-thin::-webkit-scrollbar {
+  width: 6px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 3px;
+}
+
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Improve text readability */
+.text-base {
+  font-size: 1rem;
+  line-height: 1.5;
+  letter-spacing: -0.011em;
+}
+
+/* Mobile optimizations */
+@media (max-width: 640px) {
+  .max-w-4/5 {
+    max-width: 90%;
+  }
+  
+  .text-base {
+    font-size: 0.9375rem;
+  }
+}
+
+/* Smooth transitions */
+.transition-all {
+  transition-property: all;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 200ms;
+}
+
+/* Flashcard perspective and 3D transforms */
+.perspective {
+  perspective: 1000px;
+}
+
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+
+.rotate-y-180 {
+  transform: rotateY(180deg);
+}
+
+/* Flashcard animation */
+.flip-transition {
+  transition: transform var(--card-transform-time) ease-in-out;
+}
+
+/* Hide back of card during flip */
+[style*="backface-visibility: hidden"] {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}

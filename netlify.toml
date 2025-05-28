@@ -1,0 +1,39 @@
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/assets/*.js"
+  [headers.values]
+    Content-Type = "application/javascript"
+
+[[headers]]
+  for = "/assets/*.mjs"
+  [headers.values]
+    Content-Type = "application/javascript"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Content-Type = "application/javascript"
+
+[[headers]]
+  for = "/assets/*.json"
+  [headers.values]
+    Content-Type = "application/json"
+
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Content-Type = "application/json"
+
+[[headers]]
+  for = "/assets/*.wav"
+  [headers.values]
+    Content-Type = "audio/wav"
+
+[[headers]]
+  for = "/*.wav"
+  [headers.values]
+    Content-Type = "audio/wav"

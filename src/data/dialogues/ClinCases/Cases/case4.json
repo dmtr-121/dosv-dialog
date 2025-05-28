@@ -1,0 +1,222 @@
+{
+  "id": "case4",
+  "title": "Mrs.Brown",
+  "difficulty": "B2",
+  "description": "A comprehensive medical interview focusing on systemic examination including digestive, cardiovascular, respiratory, neurological and psychological symptoms",
+  "conversation": [
+    {
+      "type": "instruction",
+      "teacherApp": "Say \"Ready to practice\" to begin your medical English session!",
+      "expectedResponse": "Ready to practice",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/say%20ready-to-practice-to-begin-your-medical-english-se.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/ready-to-practice.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You address the patient: Тепер, місіс Браун, чи можете ви мені сказати",
+      "expectedResponse": "Now, Mrs Brown, can you tell me",
+      "grammarNote": "Present Simple - Polite question form",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-address-the-patient.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/now-mrs-brown-can-you-tell-me.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about digestion: чи є у вас проблеми зі шлунком?",
+      "expectedResponse": "Do you have stomach problems?",
+      "grammarNote": "Present Simple - Direct question with 'do/does'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-digestion.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/dp-you-have-stomach-problems.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You continue: або кишечником?",
+      "expectedResponse": "or bowels?",
+      "grammarNote": "Alternative question continuation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-continue.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/or-bowels.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient admits issue: Ну, у мене іноді буває невеликий розлад шлунку",
+      "expectedResponse": "Well, I sometimes get a bit of indigestion",
+      "grammarNote": "Present Simple with frequency adverb 'sometimes'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-admits-issue.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/well-i-sometimes-get-a-bit-of-indigestion.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You show interest: Зрозуміло. І чи можете розповісти більше?",
+      "expectedResponse": "I see. And could you tell me more about that?",
+      "grammarNote": "Modal verb 'could' for polite request",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-show-interest.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/i-see-and-could-you-tell-me-more-about-that.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains: Ну, він виникає лише тоді, коли я їм щось гостре.",
+      "expectedResponse": "Well, it only comes on if I have something spicy",
+      "grammarNote": "First Conditional - if clause with Present Simple",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-explaince.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/well-it-only-comes-on-if-i-have-something-spicy.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient gives example: знаєте, як каррі",
+      "expectedResponse": "you know, like a curry",
+      "grammarNote": "Conversational filler with example",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-gives-example.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-know-like-a-curry.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You reassure patient: Зрозуміло. Це цілком нормально.",
+      "expectedResponse": "I see. Well, that is quite normal.",
+      "grammarNote": "Present Simple - reassuring statement",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-reassure-patient.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/that-is-quite-normal.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about appetite: А який у вас апетит?",
+      "expectedResponse": "And what is your appetite like?",
+      "grammarNote": "Question with 'what...like' structure",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-appetite.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/what-is-your-appetite-like.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient responds: Непоганий",
+      "expectedResponse": "Not bad.",
+      "grammarNote": "Short response with negation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-responds.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/not-bad.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about urination: Чи є проблеми з сечовиділенням?",
+      "expectedResponse": "Do you have problems with your waterworks?",
+      "grammarNote": "Present Simple question - informal medical term",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-urination.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/do-you-have-problems-with-your-water-works.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient denies problems: Ні, все гаразд",
+      "expectedResponse": "No, they are all right.",
+      "grammarNote": "Simple negative response with pronoun reference",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-denies-problems.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/no-they-are-all-right.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about menstruation: Чи є у вас ще регулярні місячні?",
+      "expectedResponse": "And are you still having your periods regularly?",
+      "grammarNote": "Present Continuous for ongoing state with 'still'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-menstru.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/are-you-still-having-your-periods-regularly.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains menopause: Ні, вони припинилися. Мабуть, років п'ять тому.",
+      "expectedResponse": "No, they stopped. Must have been five years ago.",
+      "grammarNote": "Past Simple with modal 'must have been' for past speculation",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-explains-menopause.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/no-they-stopped-must-have-been-five-years-ago.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You note information: Хм. Чи є біль у грудях?",
+      "expectedResponse": "Hmm. Any pain in the chest?",
+      "grammarNote": "Elliptical question - omitted auxiliary verb",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-note-information.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/any-pain-in-the-chest.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check cardiovascular symptoms: Прискорене серцебиття? Набряки на щиколотках?",
+      "expectedResponse": "Any palpitation? Swelling of the ankles?",
+      "grammarNote": "Elliptical questions - medical symptom inquiry",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-check-cardiovascular-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/any-palpitation-swelling-of-the-ankles.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient denies symptoms: Не дуже, лікарю",
+      "expectedResponse": "Not really, Doctor.",
+      "grammarNote": "Polite negative response with title",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-deny-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/not-really-doctor.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about respiratory: А як щодо кашлю чи хрипів?",
+      "expectedResponse": "And what about coughs or wheezing",
+      "grammarNote": "Question with 'what about' structure",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-respirator.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/what-about-coughs-or-wheezing.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You complete question: або задишки?",
+      "expectedResponse": "or shortness of breath?",
+      "grammarNote": "Alternative option completion",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-complete-question.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/shortness-of-breath.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient clarifies condition: Тільки коли у мене застуда",
+      "expectedResponse": "Only when I have got a cold.",
+      "grammarNote": "Time clause with Present Perfect 'have got'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-clarifies-condition.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/only-when-i-have-got-a-cold.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You check neurological symptoms: Чи відчуваєте ви слабкість або поколювання в кінцівках?",
+      "expectedResponse": "Have you noticed any weakness or tingling in your limbs?",
+      "grammarNote": "Present Perfect for experience - 'have you noticed'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-check-neurological-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/have-you-noticed-any-weakness-or-tingling-in-your-lim.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient denies symptoms: Ні, не можу сказати, що помічала",
+      "expectedResponse": "No, I can not say that I have noticed",
+      "grammarNote": "Modal 'can' with Present Perfect in reported speech",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-deny-symptoms.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/no-i-cannot-say-that-i-have-noticed.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "You ask about mood: Який у вас настрій останнім часом?",
+      "expectedResponse": "What sort of mood have you been in recently?",
+      "grammarNote": "Present Perfect Continuous with time expression 'recently'",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-ask-about-me.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/what-sort-of-mood-have-you-been-in-this.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient admits depression: Я почуваюся трохи пригнічено",
+      "expectedResponse": "I have been feeling a bit down.",
+      "grammarNote": "Present Perfect Continuous for recent ongoing state",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-admits-depression.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/i-ve-been-feeling-a-bit-down.mp3"
+    },
+    {
+      "type": "conversation",
+      "teacherApp": "Patient explains sleep issue: Знаєте, я погано сплю",
+      "expectedResponse": "You know, I am not sleeping well.",
+      "grammarNote": "Present Continuous for current ongoing problem",
+      "audioUrl": "https://spk-cb.b-cdn.net/c.case/c4/patient-explains-sleep-issue.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/c.case/c4/you-know-i-m-not-sleeping-well.mp3"
+    },
+    {
+      "type": "instruction",
+      "teacherApp": "Well done, that's all for today's lesson, say \"finish\" to end the lesson.",
+      "expectedResponse": "finish.",
+      "audioUrl": "https://spk-cb.b-cdn.net/hint-ins/well-done-you-have-successfully-completed-this-medical-english-scenario-say-finish-to-end-the-lesson.mp3",
+      "responseAudioUrl": "https://spk-cb.b-cdn.net/hint-ins/finish.mp3"
+    }
+  ]
+}
